@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+ua-datasets
+regex
+ftfy
+scipy
