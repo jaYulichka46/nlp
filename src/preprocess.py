@@ -102,13 +102,22 @@ def preprocess(text: Any) -> Dict[str, Any]:
     # 3. Нормалізація типографіки
     clean = normalize_typography(clean)
     
-    # 4. Маскування PII
+    # 4. Табличні артефакти
+    clean = clean.replace('|', ' ')
+    
+    # 5. Видалення дубльованих лапок ("" -> ")
+    clean = re.sub(r'""+', '"', clean)
+    
+    # 6. Видалення технічного Instagram-шуму
+    clean = re.sub(r'Посмотреть эту публикацию в Instagram', '', clean, flags=re.IGNORECASE)
+
+    # 7. Маскування PII
     clean = mask_pii(clean)
     
-    # 5. Фінальна чистка пробілів
+    # 8. Фінальна чистка пробілів
     clean = clean_whitespace(clean)
     
-    # 6. Розбиття на речення
+    # 9. Розбиття на речення
     sentences = split_sentences(clean)
 
     return {
