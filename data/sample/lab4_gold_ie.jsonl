@@ -1,0 +1,30 @@
+{"text": "Уряд виділив 1.5 млрд грн.", "gold": [{"type": "MONEY_AMOUNT", "value": {"amount": 1500000000.0, "currency": "UAH"}}]}
+{"text": "ЗСУ відбили атаку 24.02.2022.", "gold": [{"type": "UA_AGENCY", "value": "Збройні Сили України"}, {"type": "DATE_EVENT", "value": "24.02.2022"}]}
+{"text": "НАБУ розпочало розслідування 15 березня.", "gold": [{"type": "UA_AGENCY", "value": "Національне антикорупційне бюро України"}, {"type": "DATE_EVENT", "value": "15.03.2026"}]}
+{"text": "Збитки становлять 500 тис доларів.", "gold": [{"type": "MONEY_AMOUNT", "value": {"amount": 500000.0, "currency": "USD"}}]}
+{"text": "Міноборони закупило дрони на 50 млн євро.", "gold": [{"type": "UA_AGENCY", "value": "Міністерство оборони України"}, {"type": "MONEY_AMOUNT", "value": {"amount": 50000000.0, "currency": "EUR"}}]}
+{"text": "Зустріч ВРУ відбудеться 10.05.", "gold": [{"type": "UA_AGENCY", "value": "Верховна Рада України"}, {"type": "DATE_EVENT", "value": "10.05.2026"}]}
+{"text": "СБУ затримала шпигуна.", "gold": [{"type": "UA_AGENCY", "value": "Служба безпеки України"}]}
+{"text": "Кабмін ухвалив бюджет на 2024 рік.", "gold": [{"type": "UA_AGENCY", "value": "Кабінет Міністрів України"}]}
+{"text": "МВС повідомило про 10 тисяч мітингувальників.", "gold": [{"type": "UA_AGENCY", "value": "Міністерство внутрішніх справ України"}]}
+{"text": "Транш від МВФ складе $2 млрд.", "gold": [{"type": "MONEY_AMOUNT", "value": {"amount": 2000000000.0, "currency": "USD"}}]}
+{"text": "НБУ знизив облікову ставку 15.04.2023.", "gold": [{"type": "UA_AGENCY", "value": "Національний банк України"}, {"type": "DATE_EVENT", "value": "15.04.2023"}]}
+{"text": "ДБР передало справу до суду.", "gold": [{"type": "UA_AGENCY", "value": "Державне бюро розслідувань"}]}
+{"text": "РНБО проведе засідання 20 квітня.", "gold": [{"type": "UA_AGENCY", "value": "Рада національної безпеки і оборони України"}, {"type": "DATE_EVENT", "value": "20.04.2026"}]}
+{"text": "Бюджет проекту - 2 мільйони гривень.", "gold": [{"type": "MONEY_AMOUNT", "value": {"amount": 2000000.0, "currency": "UAH"}}]}
+{"text": "Подія сталася 01.01.", "gold": [{"type": "DATE_EVENT", "value": "01.01.2026"}]}
+{"text": "Виділено 300 млн грн на дороги.", "gold": [{"type": "MONEY_AMOUNT", "value": {"amount": 300000000.0, "currency": "UAH"}}]}
+{"text": "Закон прийнято у травні 2023-го року.", "gold": [{"type": "DATE_EVENT", "value": "01.05.2023"}]}
+{"text": "10 тисяч людей вийшли на вулиці.", "gold": []}
+{"text": "Збитки від пожежі - 100 тисяч євро.", "gold": [{"type": "MONEY_AMOUNT", "value": {"amount": 100000.0, "currency": "EUR"}}]}
+{"text": "ЗСУ знищили техніку на $5 млн.", "gold": [{"type": "UA_AGENCY", "value": "Збройні Сили України"}, {"type": "MONEY_AMOUNT", "value": {"amount": 5000000.0, "currency": "USD"}}]}
+{"text": "ФБР США не бере участі.", "gold": []}
+{"text": "НАБУ перевіряє тендер на 10 мільйонів гривень.", "gold": [{"type": "UA_AGENCY", "value": "Національне антикорупційне бюро України"}, {"type": "MONEY_AMOUNT", "value": {"amount": 10000000.0, "currency": "UAH"}}]}
+{"text": "ВРУ проголосувала за закон 24.08.2023.", "gold": [{"type": "UA_AGENCY", "value": "Верховна Рада України"}, {"type": "DATE_EVENT", "value": "24.08.2023"}]}
+{"text": "Курс долара зріс 10 вересня 2023 року.", "gold": [{"type": "DATE_EVENT", "value": "10.09.2023"}]}
+{"text": "Кабмін виділив 5 млрд грн 01.12.2023.", "gold": [{"type": "UA_AGENCY", "value": "Кабінет Міністрів України"}, {"type": "MONEY_AMOUNT", "value": {"amount": 5000000000.0, "currency": "UAH"}}, {"type": "DATE_EVENT", "value": "01.12.2023"}]}
+{"text": "Міноборони отримало 500 млн євро допомоги.", "gold": [{"type": "UA_AGENCY", "value": "Міністерство оборони України"}, {"type": "MONEY_AMOUNT", "value": {"amount": 500000000.0, "currency": "EUR"}}]}
+{"text": "СБУ знайшла схованку зі зброєю.", "gold": [{"type": "UA_AGENCY", "value": "Служба безпеки України"}]}
+{"text": "Ціна впала на 20%.", "gold": []}
+{"text": "Зареєстровано новий ФОП 15.10.2023.", "gold": [{"type": "DATE_EVENT", "value": "15.10.2023"}]}
+{"text": "МВС закупить машини на 200 млн грн.", "gold": [{"type": "UA_AGENCY", "value": "Міністерство внутрішніх справ України"}, {"type": "MONEY_AMOUNT", "value": {"amount": 200000000.0, "currency": "UAH"}}]}
