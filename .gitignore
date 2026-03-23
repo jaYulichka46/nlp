@@ -8,10 +8,11 @@ __pycache__/
 .ipynb_checkpoints/
 
 data/raw/*
-data/processed_v2/processed_v2.csv
+data/processed_v2/processed_v_2.csv
 
 .vscode/
 .idea/
 
 .DS_Store
-Thumbs.db
+Thumbs.dbdata/processed_v2/processed_v_2.csv
+data/processed_v2/processed_v_2.csv
